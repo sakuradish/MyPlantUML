@@ -1,0 +1,6 @@
+/data/*
+/out/*
+/src/html/*
+/src/temp.pu
+/src/temp.text
+/src/__pycache__/*
